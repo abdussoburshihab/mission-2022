@@ -1,0 +1,94 @@
+body{
+    font-family: 'Roboto', sans-serif;
+margin: 0;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 400;
+}
+.half-width{
+    width: 50%;
+    float: left;
+margin-left: 5%;
+margin-top: 5%;
+padding-left: 3%;
+
+
+}
+.half-width img{
+    width: 70%;
+    padding-left: 5%;
+}
+.heading{
+  font-size: 50px;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+#mission{
+    color: orange;
+}
+#my{
+    text-align: center;
+  font-size: 40px;
+  
+}
+.foot{
+    background-color: black;
+    width: 100%;
+    
+    
+}
+h2{
+    
+    text-align: center;
+}
+.cen{
+    color: gray;
+    text-align: center;
+}
+.white{
+    color: white;
+    
+}
+.red{
+    color: red;
+}
+.box{
+    
+    text-align: center;
+    border-image: linear-gradient(blue,cyan);
+}
+.my-mission{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
+    padding-right: 40px;
+   
+    border-radius: 20px;
+    
+}
+.my-mission img{
+    width: 40%;
+    
+}
+.flexi{
+    display: flex;
+    
+    
+}
+#bgcolor1{
+    background-color: #CAEDDC;
+}
+#bgcolor2{
+    background-color: #E9D1CC;
+}
+#bgcolor3{
+background-color: #F2B39E;
+}

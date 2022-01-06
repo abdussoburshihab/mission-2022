@@ -18,10 +18,12 @@ margin-top: 5%;
 padding-left: 3%;
 
 
+
 }
 .half-width img{
     width: 70%;
     padding-left: 5%;
+
 }
 .heading{
   font-size: 50px;
@@ -41,6 +43,7 @@ section{
 .foot{
     background-color: black;
     width: 100%;
+    background-size: auto;
     
     
 }
@@ -54,15 +57,25 @@ h2{
 }
 .white{
     color: white;
+    font-family: 'Lobster', cursive;
+    font-weight: 300;
     
 }
 .red{
     color: red;
+    font-family: 'Lobster', cursive;
+    font-weight: 300;
 }
 .box{
     
     text-align: center;
-    border-image: linear-gradient(blue,cyan);
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 10px 10px salmon;
+    padding-bottom: 50px;
+    width: 70%;
+    margin-left: 200px;
+    
 }
 .my-mission{
     width: 40%;
@@ -91,4 +104,7 @@ h2{
 }
 #bgcolor3{
 background-color: #F2B39E;
+}
+.scr{
+    color: gray;
 }
